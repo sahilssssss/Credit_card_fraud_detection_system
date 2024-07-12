@@ -3,6 +3,9 @@
 ## Description
 Developed a robust credit card fraud detection system leveraging various machine learning algorithms to distinguish between fraudulent and non-fraudulent transactions.
 
+## Database Source
+The dataset used for this project can be found [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
+
 ## Key Responsibilities and Achievements
 
 ### Exploratory Data Analysis (EDA)
@@ -29,5 +32,6 @@ Developed a robust credit card fraud detection system leveraging various machine
 - Python
 - Jupyter Notebook
 - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
 
 This project highlights my ability to apply machine learning techniques to real-world problems, perform in-depth data analysis, and evaluate model performance effectively.
